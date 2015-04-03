@@ -1,2 +1,7 @@
 # ResponsiveEmail
-A responsive email I developed for a Game Stop email campaign
+
+These are two Responsive Email examples I developed for a GameStop email campaign. To see them live follow these links. ->
+
+http://www.amwebaz.com/TanThe/New/index-GameStop-1A_1B-140916a.htm
+
+http://www.amwebaz.com/TanThe/New/index-GameStop-1A_1B-140916a.htm

@@ -4,4 +4,4 @@ These are two Responsive Email examples I developed for a GameStop email campaig
 
 http://www.amwebaz.com/TanThe/New/index-GameStop-1A_1B-140916a.htm
 
-http://www.amwebaz.com/TanThe/New/index-GameStop-1A_1B-140916a.htm
+http://www.amwebaz.com/TanThe/New/index-GameStop-2A_2B-140916a.htm
